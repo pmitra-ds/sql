@@ -5,5 +5,8 @@ The database is created from a csv file containing several book information (sou
 To run:
 ./apps.py
 
-This provides several user specific options on how to navigate the database. One can check overall number of  books based on the category, one can also look for books and their avilability status based on eiter by their title or by their author.
+This provides several user specific options on how to navigate the database. One can check overall number of  books based on the category, one can also look for books and their avilability status based on eihter by their title or by the author.
+
+Here is a screenshot of the output -
+![Example Figure](images/your_image.png)
 
