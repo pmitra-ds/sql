@@ -7,5 +7,6 @@ To run:
 
 This provides several user specific options on how to navigate the database. One can check overall number of  books based on the category, one can also look for books and their avilability status based on eihter by their title or by the author.
 Here is a screenshot of the output -
-![Example Figure](ex1.png) (ex2.png)
+![Example Figure](ex1.png) 
+![Example Figure](ex2.png)
 
